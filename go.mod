@@ -3,8 +3,8 @@ module github.com/0x44454c/gorm-sqlcipher
 go 1.20
 
 require (
-	github.com/mattn/go-sqlite3 v1.14.17
-	gorm.io/gorm v1.25.2-0.20230530020048-26663ab9bf55
+	github.com/mattn/go-sqlite3 v1.14.22
+	gorm.io/gorm v1.25.7-0.20240204074919-46816ad31dde
 )
 
 require (
